@@ -8,4 +8,6 @@ This is how you use it to make it endlessly rotate.
 
 Pretty simple!!
 
+(Stuck in the script itself? Use /reset to force stop the entire script)
+
 ![HowToUsebyYuhkil](https://github.com/GrowHax/GrowPai/assets/40395971/10ca0994-6fb0-4bc7-a1ee-50d9c6419111)
